@@ -9,5 +9,10 @@ namespace _06_Generics
     public class Book:Product
     {
         public string Isbn { get; set; }
+
+        public override string ToString()
+        {
+            return $"{Title}, Price: {Price}, Isbn = {Isbn}";
+        }
     }
 }
