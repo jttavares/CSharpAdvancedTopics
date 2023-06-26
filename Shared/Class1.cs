@@ -1,6 +1,6 @@
-﻿namespace System.Collections.Generic;
+﻿namespace Shared;
 
 public class MyClass
 {
- 
+
 }
