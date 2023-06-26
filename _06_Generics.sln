@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_08_LambdaExpressions", "_0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_10_ExtensionMethods", "_10_ExtensionMethods\_10_ExtensionMethods.csproj", "{65E78DF7-9BD3-423C-88BC-EE61CFDE480E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_11_Linq", "_11_Linq\_11_Linq.csproj", "{C84D4B32-9A87-44DF-9466-F50E46A9BEBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{65E78DF7-9BD3-423C-88BC-EE61CFDE480E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65E78DF7-9BD3-423C-88BC-EE61CFDE480E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65E78DF7-9BD3-423C-88BC-EE61CFDE480E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C84D4B32-9A87-44DF-9466-F50E46A9BEBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C84D4B32-9A87-44DF-9466-F50E46A9BEBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C84D4B32-9A87-44DF-9466-F50E46A9BEBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C84D4B32-9A87-44DF-9466-F50E46A9BEBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
