@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_06_Generics", "_06_Generic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_07_Delegates", "_07_Delegates\_07_Delegates.csproj", "{521F9F1C-B104-46A0-A2C6-DA74C3B5A999}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shared", "Shared\Shared.csproj", "{72C0E329-154B-4DF9-AE48-D6EBD9FB9B8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_99_Shared", "Shared\_99_Shared.csproj", "{72C0E329-154B-4DF9-AE48-D6EBD9FB9B8B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_09_Events", "_09_Events\_09_Events.csproj", "{CD15D336-8A69-4B93-8F1E-B3DD6562604E}"
 EndProject
@@ -17,9 +17,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_10_ExtensionMethods", "_10
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_11_Linq", "_11_Linq\_11_Linq.csproj", "{C84D4B32-9A87-44DF-9466-F50E46A9BEBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_NullableTypes", "12_NullableTypes\12_NullableTypes.csproj", "{4650584B-F086-41C1-86A9-ECFFC8DB2CAA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_12_NullableTypes", "12_NullableTypes\_12_NullableTypes.csproj", "{4650584B-F086-41C1-86A9-ECFFC8DB2CAA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_13_Dynamic", "_13_Dynamic\_13_Dynamic.csproj", "{12D47CE6-42C1-49B1-8E7A-76711E9705BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_14_ExceptionHandling", "_14_ExceptionHandling\_14_ExceptionHandling.csproj", "{142147BB-3DD2-47E7-AC4D-58E3563023D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{12D47CE6-42C1-49B1-8E7A-76711E9705BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12D47CE6-42C1-49B1-8E7A-76711E9705BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12D47CE6-42C1-49B1-8E7A-76711E9705BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{142147BB-3DD2-47E7-AC4D-58E3563023D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{142147BB-3DD2-47E7-AC4D-58E3563023D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{142147BB-3DD2-47E7-AC4D-58E3563023D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{142147BB-3DD2-47E7-AC4D-58E3563023D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
